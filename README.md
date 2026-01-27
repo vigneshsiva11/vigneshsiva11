@@ -1,5 +1,5 @@
 About me:
-I am a Full Stack Developer and a third-year Computer Science student at Bannari Amman Institute of Technology. I'm passionate about building responsive, scalable web applications and contributing to the open-source ecosystem
+  I am a Full Stack Developer and a third-year Computer Science student at Bannari Amman Institute of Technology. I'm passionate about building responsive, scalable web applications and contributing to the open-source ecosystem
 
 
 ## 🌐 Socials:
