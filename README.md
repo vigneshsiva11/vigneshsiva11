@@ -28,6 +28,8 @@ Full Stack Developer skilled in modern web technologies, building responsive and
 ![](https://nirzak-streak-stats.vercel.app/?user=vigneshsiva11&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshsiva11&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<img src="https://raw.githubusercontent.com/vigneshsiva11/vigneshsiva11/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+
 
 ### 📬 Connect with Me
 <p align="center">
