@@ -8,11 +8,7 @@
 ### 💻 Full Stack Developer
 
 </div>
-
 ---
-
-### 🚀 About Me
-Full Stack Developer skilled in modern web technologies, building responsive and scalable applications with secure authentication and clean architecture. Passionate about problem solving, open-source contributions, and following industry best practices.
 
 ### 📖 About Me
 Full Stack Developer skilled in modern web technologies, building responsive and scalable applications with secure authentication and clean architecture. Passionate about problem solving, open-source contributions, and following industry best practices.
