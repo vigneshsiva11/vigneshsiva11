@@ -26,11 +26,6 @@ Full Stack Developer skilled in modern web technologies, building responsive and
 
 <img src="https://raw.githubusercontent.com/vigneshsiva11/vigneshsiva11/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
 
-### 📥 My Pull Requests & Activity
----
-
-### 📈 Detailed PR Stats
----
 
 ### 📬 Connect with Me
 <p align="center">
