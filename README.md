@@ -1,13 +1,18 @@
-# <p align="center">Vignesh 's GitHub 🚀</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Vignesh%20Sivakumar&fontSize=70" />
-</p>
+# Vignesh 's GitHub 🚀
+
+---
 
 ## 👋 Hi there, I'm Vignesh
 ### 💻 Full Stack Developer
 
+</div>
+
 ---
+
+### 🚀 About Me
+Full Stack Developer skilled in modern web technologies, building responsive and scalable applications with secure authentication and clean architecture. Passionate about problem solving, open-source contributions, and following industry best practices.
 
 ### 📖 About Me
 Full Stack Developer skilled in modern web technologies, building responsive and scalable applications with secure authentication and clean architecture. Passionate about problem solving, open-source contributions, and following industry best practices.
