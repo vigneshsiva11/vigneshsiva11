@@ -10,7 +10,7 @@
 </div>
 
 ### 📖 About Me
-Full Stack Developer skilled in modern web technologies, building responsive and scalable applications with secure authentication and clean architecture. Passionate about problem solving, open-source contributions, and following industry best practices.
+I’m a full stack engineer passionate about building scalable web applications, real-time systems, and AI-powered products. I work with React.js, Node.js, Java, MongoDB, and modern web technologies to create high-performance user experiences and production-ready backend systems.Full Stack Developer skilled in modern web technologies, building responsive and scalable applications with secure authentication and clean architecture. Passionate about problem solving, open-source contributions, and following industry best practices.
 
 ---
  
