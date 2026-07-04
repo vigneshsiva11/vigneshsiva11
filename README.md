@@ -299,11 +299,6 @@ An interactive visualizer for pathfinding algorithms, showing step-by-step searc
 
 ---
 
-## 💡 **Daily Motivation**
-
-![Motivational Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
 
 ## 📫 **Let's Connect**
 
