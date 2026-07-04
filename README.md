@@ -267,9 +267,9 @@ Chat & Socket Apps
 
 A real-time chat application with live messaging built on a Node.js/Socket.io backend and a React frontend.
 
-`React` `Node.js` `Socket.io`
+`React` `Node.js` `Socket.io` `MongoDB`
 
-[![View Project](https://img.shields.io/badge/VIEW_PROJECT-06B6D4?style=for-the-badge)](https://github.com/vigneshsiva11)
+[![View Project](https://img.shields.io/badge/VIEW_PROJECT-06B6D4?style=for-the-badge)](https://github.com/vigneshsiva11/chat-app-mern)
 
 </td>
 <td width="50%">
@@ -280,7 +280,7 @@ An AI-enabled education platform offering personalized career guidance, built wi
 
 `Next.js` `MongoDB` `Gemini API`
 
-[![View Project](https://img.shields.io/badge/VIEW_PROJECT-3B82F6?style=for-the-badge)](https://github.com/vigneshsiva11/classless-app)
+[![View Project](https://img.shields.io/badge/VIEW_PROJECT-3B82F6?style=for-the-badge)](https://github.com/vigneshsiva11/ai-career-guidance)
 
 </td>
 </tr>
@@ -293,18 +293,18 @@ AI-driven soil microbiome profiling platform built for Biothon 2026, with a Fast
 
 `Python` `FastAPI` `React`
 
-[![View Project](https://img.shields.io/badge/VIEW_PROJECT-10B981?style=for-the-badge)](https://github.com/vigneshsiva11)
+[![View Project](https://img.shields.io/badge/VIEW_PROJECT-10B981?style=for-the-badge)](https://github.com/vigneshsiva11/RhizoSense-)
 
 </td>
 <td width="50%">
 
 ### 🛣️ ClearRouteIQ
 
-Intelligent traffic prediction & routing tool using TomTom, OpenWeatherMap and A* routing with multilingual AI explanations.
+A fully interactive and responsive web application to visualize various pathfinding algorithms and maze generation techniques
 
-`TypeScript` `A* Algorithm` `AI`
+`TypeScript` `Algorithms` 
 
-[![View Project](https://img.shields.io/badge/VIEW_PROJECT-F59E0B?style=for-the-badge)](https://github.com/vigneshsiva11)
+[![View Project](https://img.shields.io/badge/VIEW_PROJECT-F59E0B?style=for-the-badge)](https://github.com/vigneshsiva11/path-finder-visualizer)
 
 </td>
 </tr>
@@ -317,7 +317,7 @@ Disaster response system using drone swarm intelligence, RSSI-based victim detec
 
 `Python` `Mesh Networking` `AI`
 
-[![View Project](https://img.shields.io/badge/VIEW_PROJECT-EF4444?style=for-the-badge)](https://github.com/vigneshsiva11)
+[![View Project](https://img.shields.io/badge/VIEW_PROJECT-EF4444?style=for-the-badge)](https://github.com/vigneshsiva11/CrisisMesh-AI)
 
 </td>
 <td width="50%">
@@ -348,11 +348,6 @@ An interactive visualizer for pathfinding algorithms, showing step-by-step searc
 
 ---
 
-## 💡 **Daily Motivation**
-
-![Motivational Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
 
 ## 📫 **Let's Connect**
 
@@ -360,7 +355,6 @@ An interactive visualizer for pathfinding algorithms, showing step-by-step searc
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vigneshsiva11)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vigneshsiva076@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://vignesh-s-pf.vercel.app/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vignesh0688/)
 
 <br/>
 
