@@ -42,7 +42,7 @@
 ⚡ **Quick Facts**
 - 🎓 B.E. Information Science & Engineering student (Bannari Amman Institute of Technology, 2027)
 - 💻 Tech Stack: **React, TypeScript, Node.js, Express, MongoDB, Java**
-- 🏆 **Hackathon regular** — Hacksagon Finalists, Biothon Finalists, OpenEnv & more
+- 🏆 **Hackathon regular** — Hacksagon 2026 Finalists, Biothon 2026 Finalists, OpenEnv & more
 - 📫 Reach me on [LinkedIn](https://linkedin.com/in/vignesh1110/) or [Email](mailto:vigneshsiva076@gmail.com)
 
 </td>
