@@ -10,9 +10,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=vigneshsiva11&color=06B6D4&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/vigneshsiva11?color=06B6D4&style=for-the-badge&label=FOLLOWERS)
-![GitHub stars](https://img.shields.io/github/stars/vigneshsiva11?color=fbbf24&style=for-the-badge&label=STARS)
 ![Open to work](https://img.shields.io/badge/🟢_OPEN_TO_WORK-00C853?style=for-the-badge&labelColor=000000)
 
 <br/>
@@ -36,7 +33,6 @@
 
 🎯 **Current Focus**
 - 🔭 Building **full-stack & AI-integrated web apps**
-- 🌱 Preparing for **placements** (TCS NQT & core CS fundamentals)
 - 💡 Exploring **AI/ML APIs** — Gemini, OpenAI, Hugging Face
 - 🎯 Goal: Land a **Software Engineering internship/role**
 
@@ -46,14 +42,12 @@
 ⚡ **Quick Facts**
 - 🎓 B.E. Information Science & Engineering student (Bannari Amman Institute of Technology, 2027)
 - 💻 Tech Stack: **React, TypeScript, Node.js, Express, MongoDB, Java**
-- 🏆 **Hackathon regular** — Biothon, ITERYX, OpenEnv & more
+- 🏆 **Hackathon regular** — Hacksagon Finalists, Biothon Finalists, OpenEnv & more
 - 📫 Reach me on [LinkedIn](https://linkedin.com/in/vignesh1110/) or [Email](mailto:vigneshsiva076@gmail.com)
 
 </td>
 </tr>
 </table>
-
-> 💬 *"Ask me about Full-Stack Development, REST APIs, or AI integration in web apps!"*
 
 ---
 
@@ -105,6 +99,10 @@ Chat & Socket Apps
 <td align="center" width="96">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" />
 <br><strong>Java</strong>
+<td align="center" width="96">
+<img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="48" height="48" alt="AI" />
+<br><strong>AI</strong>
+</td>
 </td>
 <td align="center" width="96">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C" />
