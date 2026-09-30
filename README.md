@@ -220,7 +220,7 @@ A real-time chat application with live messaging built on a Node.js/Socket.io ba
 
 `React` `Node.js` `Socket.io`
 
-[![View Project](https://img.shields.io/badge/VIEW_PROJECT-06B6D4?style=for-the-badge)](https://github.com/vigneshsiva11)
+[![View Project](https://img.shields.io/badge/VIEW_PROJECT-06B6D4?style=for-the-badge)](https://github.com/vigneshsiva11/chat-app-mern)
 
 </td>
 <td width="50%">
@@ -231,7 +231,7 @@ An AI-enabled education platform offering personalized career guidance, built wi
 
 `Next.js` `MongoDB` `Gemini API`
 
-[![View Project](https://img.shields.io/badge/VIEW_PROJECT-3B82F6?style=for-the-badge)](https://github.com/vigneshsiva11/classless-app)
+[![View Project](https://img.shields.io/badge/VIEW_PROJECT-3B82F6?style=for-the-badge)](https://github.com/vigneshsiva11/ai-career-guidance)
 
 </td>
 </tr>
@@ -244,7 +244,7 @@ AI-driven soil microbiome profiling platform built for Biothon 2026, with a Fast
 
 `Python` `FastAPI` `React`
 
-[![View Project](https://img.shields.io/badge/VIEW_PROJECT-10B981?style=for-the-badge)](https://github.com/vigneshsiva11)
+[![View Project](https://img.shields.io/badge/VIEW_PROJECT-10B981?style=for-the-badge)](https://github.com/vigneshsiva11/RhizoSense-)
 
 </td>
 <td width="50%">
@@ -268,7 +268,7 @@ Disaster response system using drone swarm intelligence, RSSI-based victim detec
 
 `Python` `Mesh Networking` `AI`
 
-[![View Project](https://img.shields.io/badge/VIEW_PROJECT-EF4444?style=for-the-badge)](https://github.com/vigneshsiva11)
+[![View Project](https://img.shields.io/badge/VIEW_PROJECT-EF4444?style=for-the-badge)](https://github.com/vigneshsiva11/CrisisMesh-AI)
 
 </td>
 <td width="50%">
@@ -279,7 +279,7 @@ An interactive visualizer for pathfinding algorithms, showing step-by-step searc
 
 `JavaScript` `Algorithms` `Visualization`
 
-[![View Project](https://img.shields.io/badge/VIEW_PROJECT-06B6D4?style=for-the-badge)](https://github.com/vigneshsiva11)
+[![View Project](https://img.shields.io/badge/VIEW_PROJECT-06B6D4?style=for-the-badge)](https://github.com/vigneshsiva11/path-finder-visualizer)
 
 </td>
 </tr>
